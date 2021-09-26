@@ -1,0 +1,7 @@
+/*3. Write the CSS code for an external style sheet that configures the text to be brown,
+1.2em in size, and in Arial, Verdana, or a sans-serif font. */
+body {
+    color: brown;
+    font-size: 1.2em;
+    font-family: Arial, Verdana, sans-serif;
+}
